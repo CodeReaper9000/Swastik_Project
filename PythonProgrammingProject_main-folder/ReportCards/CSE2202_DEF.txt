@@ -1,0 +1,14 @@
+Name of the student : DEF 
+Class Roll of the student : 02 
+Stream of the student : CSE 
+Your Student ID is : CSE2202
+
+Marks obtained in Math is : 33 
+Marks obtained in Python is : 10 
+Marks obtained in Physics is : 44 
+Marks obtained in Chemistry is : 50 
+Marks obtained in Biology is : 60 
+Marks obtained in English is : 70 
+
+You have got 267 in total with 44.5%
+Failed. Grade F.

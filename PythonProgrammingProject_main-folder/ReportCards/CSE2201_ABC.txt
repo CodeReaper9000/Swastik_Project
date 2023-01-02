@@ -1,0 +1,14 @@
+Name of the student : ABC 
+Class Roll of the student : 01 
+Stream of the student : CSE 
+Your Student ID is : CSE2201
+
+Marks obtained in Math is : 90 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 80 
+Marks obtained in Chemistry is : 70 
+Marks obtained in Biology is : 60 
+Marks obtained in English is : 50 
+
+You have got 450 in total with 75.0%
+Passed with grade C.

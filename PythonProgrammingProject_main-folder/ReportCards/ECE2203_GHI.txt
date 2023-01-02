@@ -1,0 +1,14 @@
+Name of the student : GHI 
+Class Roll of the student : 03 
+Stream of the student : ECE 
+Your Student ID is : ECE2203
+
+Marks obtained in Math is : 66 
+Marks obtained in Python is : 55 
+Marks obtained in Physics is : 70 
+Marks obtained in Chemistry is : 10 
+Marks obtained in Biology is : 30 
+Marks obtained in English is : 55 
+
+You have got 286 in total with 47.666666666666664%
+Failed. Grade F.
